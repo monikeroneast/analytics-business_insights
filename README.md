@@ -4,15 +4,10 @@ A collection of self-driven analytics and product-focused projects built using E
 
 ## Projects
 
-### 1. Hotel Booking Analytics Dashboard
-Analyzed booking patterns, cancellations, ADR, customer segments, and seasonal demand trends using Power BI.
+### 1. e-Commerce Order and Fulfillment Performance Dashboard
+Built an E-commerce Order & Fulfillment Performance Dashboard in Power BI to analyze Order flows, Revenue Contribution, and Operational Efficiency.
 
-**Tools:** Excel, SQL concepts, Power BI
-**Focus Areas:** Revenue insights, cancellations, booking behavior
+**Tools:** 
 
-
-
-## About Me
-Business and product professional with 7 years of experience across enterprise operations, systems, and cross-functional execution. Specialized in translating complex business problems into scalable, data-driven systems by working closely with engineering and analytics teams.
-
-Currently focused on Product Analytics, Business Analytics, BI, and data-driven product roles, with a strong interest in scalable systems and enterprise platforms.
+**Tools:** Excel | Python | SQL | Power BI | DAX | Data Visualization
+**Focus Areas:** Order flows, Revenue Contribution, and Operational Efficiency.
