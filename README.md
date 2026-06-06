@@ -16,7 +16,7 @@ Built an E-commerce Order & Fulfillment Performance Dashboard in Power BI.
 
 **Tools:** Excel | Python | SQL | Power BI | DAX | Data Visualization
 **Focus Areas:** Order flows, Revenue Contribution, and Operational Efficiency
-**[NotionLink]** (https://bevel-chestnut-da0.notion.site/p/34d93f2c74c080d2b7e5f780259839ff?pvs=25)
+**[NotionLink]** (https://bevel-chestnut-da0.notion.site/E-Commerce-Order-and-Fulfillment-Performance-Dashboard-34d93f2c74c080d2b7e5f780259839ff)
 
 ## About Me
 Business and Product Analyst with 8+ years of domain experience across enterprise systems and automotive ecosystems, now specializing in the Modern Data Stack platform.
