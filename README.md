@@ -8,7 +8,7 @@ A collection of self-driven analytics and product-focused projects built using E
 Analyzed booking patterns, cancellations, ADR, customer segments, and seasonal demand trends using Power BI.
 
 **Tools:** Excel, SQL concepts, Power BI
-**Focus Areas:** Revenue insights, cancellations, booking behavior
+**Focus Areas:** Revenue Insights, Cancellations, Booking Behavior
 
 
 
