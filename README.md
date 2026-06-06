@@ -9,12 +9,14 @@ Analyzed booking patterns, cancellations, ADR, customer segments, and seasonal d
 
 **Tools:** Excel | SQL concepts | Power BI
 **Focus Areas:** Revenue Insights, Cancellations, Booking Behavior
+**[NotionLink]** (https://bevel-chestnut-da0.notion.site/Hotel-Booking-Performance-Dashboard-34693f2c74c080e19babcf205aa392f2)
 
 ### 2. e-commerce Order Fulfillment Performance Dashboard
 Built an E-commerce Order & Fulfillment Performance Dashboard in Power BI.
 
 **Tools:** Excel | Python | SQL | Power BI | DAX | Data Visualization
 **Focus Areas:** Order flows, Revenue Contribution, and Operational Efficiency
+**[NotionLink]** (https://bevel-chestnut-da0.notion.site/p/34d93f2c74c080d2b7e5f780259839ff?pvs=25)
 
 ## About Me
 Business and Product Analyst with 8+ years of domain experience across enterprise systems and automotive ecosystems, now specializing in the Modern Data Stack platform.
