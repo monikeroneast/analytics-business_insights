@@ -13,6 +13,10 @@ Analyzed booking patterns, cancellations, ADR, customer segments, and seasonal d
 
 
 ## About Me
-Business and product professional with 7 years of experience across enterprise operations, systems, and cross-functional execution. Specialized in translating complex business problems into scalable, data-driven systems by working closely with engineering and analytics teams.
+Business and Product Analyst with 8+ years of domain experience across enterprise systems and automotive ecosystems, now specializing in the Modern Data Stack platform.
 
-Currently focused on Product Analytics, Business Analytics, BI, and data-driven product roles, with a strong interest in scalable systems and enterprise platforms.
+Experienced across enterprise operations, systems, and cross-functional execution (Ex-Tata Motors). I specialize in translating complex business problems into scalable, data-driven systems by working closely with engineering and analytics teams.
+
+Currently focused on Product Analytics, Business Analytics, BI, and data-driven product roles, with a strong interest in scalable systems and enterprise platforms. I strive to bridge the gap between data engineering and executive decision-making by building version-controlled pipelines that transform raw operational data into production-ready analytical views.
+
+Currently based in India and actively seeking Business Analyst, Product Analyst, and Data/Analytics Engineer opportunities where I can put my skills to solve business problems. Happy to connect!
