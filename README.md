@@ -12,4 +12,4 @@ Currently focused on Product Analytics, Business Analytics, BI, and data-driven 
 
 Currently based in India and actively seeking Business Analyst, Product Analyst, and Data/Analytics Engineer opportunities where I can put my skills to solve business problems. Happy to connect!
 
-**[Notion Link]**(https://bevel-chestnut-da0.notion.site/Jai-Lalita-Soren-Product-Portfolio-32c93f2c74c080a6b4bae9fc24c8b730)
+**[Notion Link]:** (https://bevel-chestnut-da0.notion.site/Jai-Lalita-Soren-Product-Portfolio-32c93f2c74c080a6b4bae9fc24c8b730)
